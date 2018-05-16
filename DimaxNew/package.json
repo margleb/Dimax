@@ -1,0 +1,20 @@
+{
+  "name": "opencart-project",
+  "version": "1.0.0",
+  "description": "OpenCart Gulp Project",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WebDesign Master",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-clean-css": "^3.9.4",
+    "gulp-sass": "^4.0.1",
+    "node-bourbon": "^4.2.8",
+    "vinyl-ftp": "^0.6.1"
+  }
+}
